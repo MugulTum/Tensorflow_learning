@@ -1,4 +1,4 @@
-![image](https://github.com/MugulTum/Tensorflow_learning/assets/51419150/5e8780e1-9343-4c1f-af52-95477398d953)![image](https://github.com/MugulTum/Tensorflow_learning/assets/51419150/3b60e22a-c9b3-43c9-b7bd-fb6cd675e1d4)![image](https://github.com/MugulTum/Tensorflow_learning/assets/51419150/39aad976-813e-488d-9a22-68f93246b726)![image](https://github.com/MugulTum/Tensorflow_learning/assets/51419150/e61cd6cc-ff4b-45f8-b23a-7e98674ee1c1)![image](https://github.com/MugulTum/Tensorflow_learning/assets/51419150/4efd68a8-d086-4875-8e4a-7e92d52d8225)# Tensorflow_malaria
+# Tensorflow_malaria
 ## Introduction 
 Malaria is among the common diseases that kills millions of people annually 
 In Sub-Saharan Africa, malaria has killed many people with majority being children below 5 years 
